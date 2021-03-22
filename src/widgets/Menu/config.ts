@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "/",
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "/",
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "/",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/joinchat/XJxHe4UZOyo5YjM0",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -128,7 +128,7 @@ export const socials = [
       // },
       {
         label: "中文",
-        href: "https://t.me/goosefinancechinese",
+        href: "",
       },
       // {
       //   label: "Tiếng Việt",
@@ -140,11 +140,11 @@ export const socials = [
       // },
       {
         label: "русский",
-        href: "https://t.me/goosefinancerussian",
+        href: "",
       },
       {
         label: "Türkiye",
-        href: "https://t.me/GooseFinanceTurkey",
+        href: "",
       },
       // {
       //   label: "Português",
@@ -152,11 +152,11 @@ export const socials = [
       // },
       {
         label: "Español",
-        href: "https://t.me/goosefinancespanish",
+        href: "",
       },
       {
         label: "日本語",
-        href: "https://t.me/goosefinancejapanese",
+        href: "",
       },
       // {
       //   label: "Français",
@@ -164,18 +164,18 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "",
       },
       {
         label: "Price Bot",
-        href: "https://t.me/BinanceRocketEGG",
+        href: "",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceGoose",
+    href: "https://twitter.com/CitaProtocol",
   },
 ];
 
